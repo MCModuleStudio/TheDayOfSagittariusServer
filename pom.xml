@@ -10,6 +10,17 @@
   		<artifactId>netty-all</artifactId>
   		<version>4.1.77.Final</version>
   	</dependency>
+  	<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>1.18.12</version>
+		<scope>provided</scope>
+	</dependency>
+	<dependency>
+		<groupId>javax.vecmath</groupId>
+		<artifactId>vecmath</artifactId>
+		<version>1.5.2</version>
+	</dependency>
   </dependencies>
   <properties>
     <maven.compiler.source>8</maven.compiler.source>
